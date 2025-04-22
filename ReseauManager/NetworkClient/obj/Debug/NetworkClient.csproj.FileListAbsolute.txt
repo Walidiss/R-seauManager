@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.Form1.resources
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.Properties.Resources.resources
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\bin\Debug\NetworkClient.exe.config
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\bin\Debug\NetworkClient.exe
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\bin\Debug\NetworkClient.pdb
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.exe
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkClient\obj\Debug\NetworkClient.pdb

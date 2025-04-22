@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="53afc95b-cf8d-4c2a-ad9b-ad64cf3f2db2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:5000/NetworkService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NetworkService.disco" MetadataType="Disco" ID="de9c9be7-3b4d-4518-82b9-b47248133892" SourceId="1" SourceUrl="http://localhost:5000/NetworkService?disco" />
+    <MetadataFile FileName="NetworkService.xsd" MetadataType="Schema" ID="6b09d305-92c6-40a1-8e76-38fc138d3772" SourceId="1" SourceUrl="http://localhost:5000/NetworkService?xsd=xsd1" />
+    <MetadataFile FileName="NetworkService1.xsd" MetadataType="Schema" ID="6be5ccc1-2b01-4966-b111-fcd2248fa6ee" SourceId="1" SourceUrl="http://localhost:5000/NetworkService?xsd=xsd0" />
+    <MetadataFile FileName="NetworkService.wsdl" MetadataType="Wsdl" ID="0541070c-4e32-4e4e-a8b3-1ee6d83bfb1e" SourceId="1" SourceUrl="http://localhost:5000/NetworkService?wsdl" />
+    <MetadataFile FileName="NetworkService2.xsd" MetadataType="Schema" ID="82e76bb8-7bf9-427f-97cd-6565da903aa8" SourceId="1" SourceUrl="http://localhost:5000/NetworkService?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

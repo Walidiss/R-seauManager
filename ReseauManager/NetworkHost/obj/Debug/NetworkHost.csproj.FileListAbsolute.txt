@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\obj\Debug\NetworkHost.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\obj\Debug\NetworkHost.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\bin\Debug\NetworkHost.exe.config
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\bin\Debug\NetworkHost.exe
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\bin\Debug\NetworkHost.pdb
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\bin\Debug\NetworkService.dll
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\bin\Debug\NetworkService.pdb
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\obj\Debug\NetworkH.705F4D12.Up2Date
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\obj\Debug\NetworkHost.exe
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkHost\obj\Debug\NetworkHost.pdb

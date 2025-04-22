@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkService\bin\Debug\NetworkService.dll
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkService\obj\Debug\NetworkService.dll
+C:\Users\HP\Documents\Repos\R-seauManager\ReseauManager\NetworkService\obj\Debug\NetworkService.pdb

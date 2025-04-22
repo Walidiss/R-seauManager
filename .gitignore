@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/ReseauManager/NetworkClient/Form1.cs
+/ReseauManager/NetworkClient/Form1.Designer.cs
+/ReseauManager/NetworkClient/Form1.resx
